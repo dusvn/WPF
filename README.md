@@ -1,6 +1,6 @@
 # WPF
 Classic wpf app for evidence of library
-Funcions: 
+Functions: 
 1)Add new user 
 2)Add new book 
 3)Display all librarys 
